@@ -1,3 +1,7 @@
+-- Ejercicio Pre entrega 4
+-- Autor: Milagros Lucía Morales
+-- Fecha: 29-07-2026
+
 USE Ventas_Tech_DB;
 
 -- Consulta 1: Resumen ejecutivo mensual
