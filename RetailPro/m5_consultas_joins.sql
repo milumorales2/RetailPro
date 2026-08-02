@@ -1,3 +1,7 @@
+-- Ejercicio Pre entrega 5
+-- Autor: Milagros Lucía Morales
+-- Fecha: 01-08-2026
+
 -- Consulta 1 — Vista base del proyecto (INNER JOIN) 
 -- Combiná ventas, clientes, productos y territorios para obtener en una sola fila: 
 -- fecha, nombre del cliente, segmento, región, nombre del producto, categoría, cantidad, precio unitario, total de venta y canal. 
